@@ -11,6 +11,6 @@ Edit `package.json`
 ```
 {
     // ...
-    "prettier": "@townsquare-interactive/prettier-config"
+    "prettier": "@nerdo/prettier-config"
 }
 ```
