@@ -1,0 +1,9 @@
+{
+  "name": "@nerdo/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.json",
+  "keywords": [],
+  "author": "Dannel Albert <cuebix@gmail.com>",
+  "license": "MIT"
+}
